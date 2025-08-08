@@ -49,3 +49,18 @@ footer {
 section:not(:last-child) {
 	border-bottom: 1px solid #ccc;
 }
+#counter p {
+	font-size: 2em;
+	margin: 20px 0;
+}
+
+#counter button {
+	margin: 5px;
+	padding: 10px 20px;
+	font-weight: bold;
+	background-color: #e6a10e;
+	color: white;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
